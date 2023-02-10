@@ -1,0 +1,3 @@
+Saloxiddin Normuminov - "header";
+Nematov Muxriddin - "main";
+Bobomurodov Saidmurod - "footer";
